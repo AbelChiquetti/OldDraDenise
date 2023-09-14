@@ -1,32 +1,3 @@
-/*
-Template Name: PetZ
-Author: Ingrid Kuhn
-Author URI: themeforest/user/ingridk
-Version: 1.1
-Last change: 19 May 2023
-
-	Table of Contents
-
-	#General and Typography
-	#Preloader
-	#Navigation
-	#Logo
-	#Index page
-	#Adoption page
-	#Team page
-	#Pricing Page
-	#Testimonials Page
-    #Gallery page
-	#Blog pages
-	#Contact page
-	#Footer and Credits
-	#Miscellaneous
-	#Media Queries
-
-===========================
-  General and Typography
-============================ */
-
 html {
 	width: 100%;
 	height: 100%;
@@ -291,7 +262,7 @@ i {
 /* Shrink navbar on scroll  */
 
 nav .navbar-brand img {
-	max-width: 120px;
+	max-width: 200px;
 }
 
 nav.navbar a {
