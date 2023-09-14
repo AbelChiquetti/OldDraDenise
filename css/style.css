@@ -262,7 +262,7 @@ i {
 /* Shrink navbar on scroll  */
 
 nav .navbar-brand img {
-	max-width: 200px;
+	max-width: 120px;
 }
 
 nav.navbar a {
@@ -277,7 +277,7 @@ nav.navbar.shrink {
 }
 
 nav.navbar.shrink .navbar-brand img {
-	max-width: 90px;
+	max-width: 85px;
 }
 
 nav.navbar.shrink a {
