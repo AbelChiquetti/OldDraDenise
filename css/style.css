@@ -1450,7 +1450,7 @@ footer ul {
 }
 
 .logofooter {
-	width: 50%;
+	max-width: 100px;
   }
 
 footer.no-margin {
