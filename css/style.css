@@ -1449,9 +1449,9 @@ footer ul {
 	margin-top: 0px;
 }
 
-center-block img-responsive {
-	max-width: 100px;
-}
+.logofooter {
+	width: 50%;
+  }
 
 footer.no-margin {
 	margin-top: 0px;
