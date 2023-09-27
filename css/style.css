@@ -1449,6 +1449,10 @@ footer ul {
 	margin-top: 0px;
 }
 
+center-block img-responsive {
+	max-width: 100px;
+}
+
 footer.no-margin {
 	margin-top: 0px;
 }
