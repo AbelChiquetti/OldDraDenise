@@ -840,7 +840,7 @@ ul.slider-pagi {
 .features:hover i {
   transform: scale(1.2);
   -webkit-backface-visibility: hidden;
-	backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 /*===========================
@@ -1358,7 +1358,7 @@ ul.slider-pagi {
 }
 
 .img-blog:hover {
-	transition: background 0.3s;
+  transition: background 0.3s;
 }
 
 .img-blog img {
@@ -1473,8 +1473,8 @@ footer ul {
   margin-top: 0px;
 }
 
-footer .logofooter img {
-  max-width: 100px;
+footer img {
+  max-width: 200px;
 }
 
 footer.no-margin {
